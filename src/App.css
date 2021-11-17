@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  /* font-family: "Bungee Shade", cursive;
+  font-family: "Milonga", cursive;
+  font-family: "Rampart One", cursive;
+  font-family: "Rye", cursive;
+  font-family: "Sancreek", cursive;
+  font-family: "Smokum", cursive;
+  font-family: "Special Elite", cursive;
+  font-family: "Stick No Bills", sans-serif; */
+  color: "#01BF71";
+  color: "#aaa";
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a {
+  text-decoration: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: "Cast Iron";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./components/Fonts/Cast\ Iron.ttf");
 }
-
-.App-link {
-  color: #61dafb;
+@font-face {
+  font-family: "Fontanesi";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./components/Fonts/Fontanesi.Ttf");
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@font-face {
+  font-family: "JFRingmaster";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./components/Fonts/JFRingmaster.ttf");
+}
+@font-face {
+  font-family: "Western";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./components/Fonts/WESTERN.TTF");
+}
+@font-face {
+  font-family: "Smokum";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./components/Fonts/Smokum-Regular.ttf");
 }
