@@ -31,7 +31,7 @@ const Filmy = () => {
       <ServicesContainer id="filmy">
         <Container>
           <Icon to="/">dziki zachód</Icon>
-          <Img src={img} />
+          <Img src={img} alt="..." />
         </Container>
         <ServicesH2>Westerny wszech czasów</ServicesH2>
         <ServicesWrapper>
