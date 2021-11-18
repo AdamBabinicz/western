@@ -83,8 +83,8 @@ export const Heading = styled.h2`
 export const Subtitle = styled.p`
   max-width: 440px;
   margin-bottom: 35px;
-  font-size: 26px;
-  font-family: "Smokum";
+  font-size: 23px;
+  /* font-family: "Smokum"; */
   font-family: "Sorts Mill Goudy", serif;
   line-height: 28px;
   color: ${({ darkText }) => (darkText ? "#010606" : "#fff")};
