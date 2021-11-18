@@ -85,6 +85,7 @@ export const Subtitle = styled.p`
   margin-bottom: 35px;
   font-size: 26px;
   font-family: "Smokum";
+  font-family: "Sorts Mill Goudy", serif;
   line-height: 28px;
   color: ${({ darkText }) => (darkText ? "#010606" : "#fff")};
 `;

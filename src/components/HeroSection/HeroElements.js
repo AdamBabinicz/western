@@ -59,7 +59,7 @@ export const HeroContent = styled.div`
 
 export const HeroH1 = styled.h1`
   color: #fff;
-  font-family: "Sancreek", cursive;
+  /* font-family: "Sancreek", cursive; */
   font-family: "JFRingmaster";
   letter-spacing: 4px;
   font-size: 48px;
@@ -77,7 +77,9 @@ export const HeroH1 = styled.h1`
 export const HeroP = styled.p`
   margin-top: 24px;
   color: #fff;
-  font-family: "Smokum", cursive;
+  /* font-family: "Smokum", cursive; */
+  /* font-family: "Sancreek", cursive; */
+  font-family: "Sorts Mill Goudy", serif;
   letter-spacing: 2px;
   font-size: 24px;
   text-align: center;
