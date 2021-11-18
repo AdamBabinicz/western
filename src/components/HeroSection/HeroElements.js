@@ -61,7 +61,7 @@ export const HeroH1 = styled.h1`
   color: #fff;
   /* font-family: "Sancreek", cursive; */
   font-family: "JFRingmaster";
-  letter-spacing: 4px;
+  letter-spacing: 10px;
   font-size: 48px;
   text-align: center;
 
