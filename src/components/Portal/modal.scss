@@ -15,8 +15,8 @@
 
   .modal {
     background: linear-gradient(
-      to right,
-      rgba(255, 255, 255, 0.8),
+      to bottom,
+      rgba(255, 255, 255, 1),
       rgba(255, 255, 255, 0.9)
     );
     width: calc(20rem + 55vw);
@@ -66,6 +66,10 @@
           width: 1.5rem;
           height: auto;
           transition: all 0.3s ease;
+
+          @media only screen and (max-width: 676px) {
+            width: 0.8rem;
+          }
         }
 
         &:hover {
