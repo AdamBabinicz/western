@@ -88,6 +88,10 @@ export const Subtitle = styled.p`
   font-family: "Sorts Mill Goudy", serif;
   line-height: 28px;
   color: ${({ darkText }) => (darkText ? "#010606" : "#fff")};
+
+  @media only screen and (max-width: 676px) {
+    font-size: 18px;
+  }
 `;
 
 export const BtnWrap = styled.div`
