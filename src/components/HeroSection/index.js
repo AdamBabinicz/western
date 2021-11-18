@@ -61,9 +61,7 @@ const HeroSection = () => {
               Pomimo że westerny ścisłe wiązały się z konkretnym miejscem i
               okresem w historii Stanów Zjednoczonych, ich ogromna popularność
               objęła cały świat. Westerny kręcone w latach 40. i 50. podkreślały
-              wartość honoru i poświęcenia. W późniejszym okresie, zwłaszcza w
-              latach 70., ich spojrzenie stało się bardziej pesymistyczne,
-              kładąc nacisk na brutalność i cynizm.
+              wartość honoru i poświęcenia.
             </p>
             <br />
             <p>
