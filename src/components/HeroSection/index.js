@@ -58,7 +58,7 @@ const HeroSection = () => {
               masakry nad Wounded Knee. Niekiedy jednak dotyczą one
               wcześniejszego okresu, od bitwy o Alamo (1836), zaś akcja tzw.
               późnych westernów dzieje się aż do rewolucji meksykańskiej (1913).
-              Pomimo że westerny ścisłe wiązały się z konkretnym miejscem i
+              Pomimo że westerny ściśłe wiązały się z konkretnym miejscem i
               okresem w historii Stanów Zjednoczonych, ich ogromna popularność
               objęła cały świat. Westerny kręcone w latach 40. i 50. podkreślały
               wartość honoru i poświęcenia.
